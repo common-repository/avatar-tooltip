@@ -1,0 +1,1435 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: alo-easymail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-08 09:31+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alex <groucho75@email.it>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././php/hooks.php:81
+msgid "loading..."
+msgstr "caricamento..."
+
+#: .././php/hooks.php:82
+#: .././php/ajax.php:29
+#: .././php/ajax.php:259
+#: .././php/ajax.php:260
+#, fuzzy
+msgid "error"
+msgstr "Errore"
+
+#: .././php/hooks.php:83
+msgid "Close"
+msgstr "Chiudi"
+
+#: .././php/hooks.php:98
+#: .././php/hooks.php:103
+#: .././php/hooks.php:147
+#: .././php/view-admin-options.php:11
+msgid "Cheatin&#8217; uh?"
+msgstr "Stai tentando di fare il furbo?"
+
+#: .././php/hooks.php:141
+msgid "Updated"
+msgstr "Aggiornato"
+
+#: .././php/hooks.php:151
+msgid "Defaults restored"
+msgstr ""
+
+#: .././php/admin-menu-and-bar.php:36
+msgid "Help"
+msgstr ""
+
+#: .././php/admin-menu-and-bar.php:38
+msgid "Plugin FAQ"
+msgstr ""
+
+#: .././php/admin-menu-and-bar.php:39
+msgid "Support forum on WordPress.org"
+msgstr ""
+
+#: .././php/admin-menu-and-bar.php:45
+msgid "If you use this plugin consider the idea of donating and supporting its development"
+msgstr "Se usi questo plugin prendi in considerazione l&#39;idea di fare una donazione e contriuire al suo sviluppo"
+
+#: .././php/ajax.php:44
+#: .././php/ajax.php:129
+#, fuzzy
+msgid "More info"
+msgstr "Maggiori info sull'utente"
+
+#: .././php/ajax.php:45
+#, fuzzy
+msgid "No more info available"
+msgstr "Non ci sono liste disponibili"
+
+#: .././php/ajax.php:79
+#, php-format
+msgid "Info from %s"
+msgstr ""
+
+#: .././php/ajax.php:84
+#, php-format
+msgid "User posts on %s"
+msgstr ""
+
+#: .././php/ajax.php:84
+msgid "Recent Posts"
+msgstr ""
+
+#: .././php/ajax.php:93
+msgid "User blog"
+msgstr ""
+
+#: .././php/ajax.php:100
+msgid "Website"
+msgstr ""
+
+#: .././php/ajax.php:134
+msgid "view complete profile on Gravatar"
+msgstr ""
+
+#: .././php/view-admin-options.php:51
+msgid "After you save option changes, you will be able to view the updated tooltip on your avatar here"
+msgstr ""
+
+#: .././php/view-admin-options.php:66
+#, fuzzy
+msgid "Options"
+msgstr "Opzioni Quiz"
+
+#: .././php/view-admin-options.php:79
+msgid "Only members can view tooltips"
+msgstr ""
+
+#: .././php/view-admin-options.php:83
+msgid "If flagged, only logged-in users can view tooltips"
+msgstr ""
+
+#: .././php/view-admin-options.php:84
+msgid "If not, also not logged visitors can view tooltips"
+msgstr ""
+
+#: .././php/view-admin-options.php:91
+msgid "Selector(s) for tooltip"
+msgstr ""
+
+#: .././php/view-admin-options.php:95
+msgid "The selector(s) that are used by jQuery to open tooltips"
+msgstr ""
+
+#: .././php/view-admin-options.php:97
+msgid "Please pay attention"
+msgstr ""
+
+#: .././php/view-admin-options.php:98
+#, php-format
+msgid "it is recommended to add the %s attribute to selectors because the plugin automatically adds this attibute to avatars and the toolips are shown only if it exists"
+msgstr ""
+
+#: .././php/view-admin-options.php:99
+#, php-format
+msgid "it is a good idea to add a parent class (e.g. %s) to avoid that the toolip is shown on unwanted avatars (e.g. top Toolbar)"
+msgstr ""
+
+#: .././php/view-admin-options.php:108
+msgid "Event for tooltip"
+msgstr ""
+
+#: .././php/view-admin-options.php:133
+msgid "Appearance"
+msgstr ""
+
+#: .././php/view-admin-options.php:143
+msgid "Tooltip position"
+msgstr ""
+
+#: .././php/view-admin-options.php:145
+msgid "Put this corner/side of the tooltip"
+msgstr ""
+
+#: .././php/view-admin-options.php:153
+msgid "at this corner/side of the avatar"
+msgstr ""
+
+#: .././php/view-admin-options.php:167
+msgid "CSS class"
+msgstr ""
+
+#: .././php/view-admin-options.php:177
+#, fuzzy
+msgid "You can customise further the styles"
+msgstr "Hai superato il test"
+
+#: .././php/view-admin-options.php:178
+msgid "in plugin folder there is a css file where you can add more styles"
+msgstr ""
+
+#: .././php/view-admin-options.php:179
+msgid "A tip: copy this file to your theme directory and edit it there. Useful to prevent the loss of styles when you upgrade the plugin."
+msgstr ""
+
+#: .././php/view-admin-options.php:194
+msgid "Update"
+msgstr "Aggiorna"
+
+#: .././php/view-admin-options.php:195
+msgid "Restore defaults"
+msgstr "Ripristina predefiniti"
+
+#: .././php/view-admin-options.php:195
+msgid "Do you confirm?"
+msgstr "Confermi?"
+
+#~ msgid "Question"
+#~ msgstr "Domanda"
+
+#~ msgid "Answer"
+#~ msgstr "Risposta"
+
+#~ msgid "Single choice"
+#~ msgstr "Una sola risposta è quella corretta"
+
+#~ msgid "Multiple choice"
+#~ msgstr "Ci possono essere più risposte corrette"
+
+#~ msgid ""
+#~ "The test contains %s questions and the rate required for success is %s/100"
+#~ msgstr ""
+#~ "Il test contiene %s domande e il punteggio richiesto per il superamento è "
+#~ "%s/100"
+
+#~ msgid "Your already submitted %s attempts."
+#~ msgstr "Tu hai già sostenuto %s tentativi."
+
+#~ msgid "Your have %s available attempts yet."
+#~ msgstr "Hai ancora %s tentativi a disposizione."
+
+#~ msgid "Start"
+#~ msgstr "Inizia"
+
+#~ msgid "Your have no available attempts."
+#~ msgstr "Non hai altri tentativi a disposizione."
+
+#~ msgid ""
+#~ "The LMS Quiz plugin is deactivated: you need to install LMS Plugin first!"
+#~ msgstr ""
+#~ "Il plugin LMS Quiz è disattivato: devi prima attivare il plugin "
+#~ "principale LMS!"
+
+#~ msgid "Do you confirm you want to send your anwers?"
+#~ msgstr "Confermi di voler spedire la tua risposta?"
+
+#~ msgid "Axenso Quiz"
+#~ msgstr "Axenso Quiz"
+
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
+
+#~ msgid "Default html message when given answer is <strong>correct</strong>"
+#~ msgstr ""
+#~ "Messaggio di default quando la risposta data è <strong>corretta</strong>"
+
+#~ msgid "Default html message when given answer is <strong>wrong</strong>"
+#~ msgstr ""
+#~ "Messaggio di default quando la risposta data è <strong>sbagliata</strong>"
+
+#~ msgid "Final html message when a quiz is over"
+#~ msgstr "Messaggio finale quando il quiz è terminato"
+
+#, fuzzy
+#~ msgid "You can use these placeholders:"
+#~ msgstr "puoi usare i tag elencati sotto"
+
+#~ msgid "the title of quiz"
+#~ msgstr "Titolo del quiz"
+
+#~ msgid "the number of quiz&#39;s questions"
+#~ msgstr "Numero di domande del Quiz"
+
+#~ msgid "the percentage of first correct answers given by the user"
+#~ msgstr "Percentuale di risposte corrette date dall'utente"
+
+#~ msgid "the time spent by the user"
+#~ msgstr "Tempo impiegato dall'utente"
+
+#, fuzzy
+#~ msgid "the name of the user"
+#~ msgstr "Nome dell&#39;utente registrato."
+
+#~ msgid "Tips"
+#~ msgstr "Suggerimenti"
+
+#~ msgid "Put this code into a post to show a quiz"
+#~ msgstr "Inserisci questi codici in un articolo per mostrare il quiz"
+
+#~ msgid "Quizzes"
+#~ msgstr "Quiz"
+
+#~ msgid "Add New"
+#~ msgstr "Aggiungi Nuovo"
+
+#~ msgid "Add New Quiz"
+#~ msgstr "Aggiungi Nuovo Quiz"
+
+#~ msgid "Edit Quiz"
+#~ msgstr "Modifica quiz"
+
+#~ msgid "New Quiz"
+#~ msgstr "Nuova quiz"
+
+#~ msgid "View Quiz"
+#~ msgstr "Visualiiza il Quiz"
+
+#~ msgid "Search Quizzes"
+#~ msgstr "Cerca tra i quiz"
+
+#~ msgid "No Quizzes found"
+#~ msgstr "Nessun Quiz trovato"
+
+#~ msgid "No Quizzes found in Trash"
+#~ msgstr "Nessun quiz nel cestino"
+
+#~ msgid "Parent Quiz"
+#~ msgstr "Quiz genitore"
+
+#~ msgid "Quiz updated. <a href=\"%s\">View Quiz</a>"
+#~ msgstr "Quiz aggiornato. <a href=\"%s\">Visualizza Quiz</a>"
+
+#~ msgid "Custom field updated."
+#~ msgstr "Campo personalizzato aggiornato"
+
+#~ msgid "Custom field deleted."
+#~ msgstr "Campo personalizzato cancellato"
+
+#~ msgid "Quiz updated."
+#~ msgstr "Quiz aggiornato"
+
+#~ msgid "Quiz restored to revision from %s"
+#~ msgstr "Quiz ripristinato alla revisione da %s"
+
+#~ msgid "Quiz published. <a href=\"%s\">View Quiz</a>"
+#~ msgstr "Quiz pubblicato. <a href=\"%s\">Visualizza Quiz</a>"
+
+#~ msgid "Quiz saved."
+#~ msgstr "Quiz salvato"
+
+#~ msgid "Quiz submitted. <a target=\"_blank\" href=\"%s\">Preview Quiz</a>"
+#~ msgstr "Quiz inviato. <a target=\"_blank\" href=\"%s\">Anteprima Quiz</a>"
+
+#~ msgid ""
+#~ "Quiz scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+#~ "\"%2$s\">Preview Quiz</a>"
+#~ msgstr ""
+#~ "Quiz programmato per: <strong>%1$s</strong>. <a target=\"_blank\" href="
+#~ "\"%2$s\">Anteprima Quiz</a>"
+
+#~ msgid ""
+#~ "Quiz draft updated. <a target=\"_blank\" href=\"%s\">Preview Quiz</a>"
+#~ msgstr ""
+#~ "Bozza del quiz aggiornata. <a target=\"_blank\" href=\"%s\">anteprima "
+#~ "Quiz</a>"
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "correct"
+#~ msgstr "Corretto"
+
+#~ msgid "This item is the <strong>beginning</strong> of a quiz"
+#~ msgstr "Introduzione del quiz"
+
+#~ msgid "After saving you can add questions and answers"
+#~ msgstr "Dopo avere salvato puoi aggiungere altre domande e risposte"
+
+#~ msgid "This item is a <strong>question</strong> of a quiz"
+#~ msgstr "Domanda di un quiz"
+
+#~ msgid "Select a question type"
+#~ msgstr "Scegli un tipo di domanda"
+
+#~ msgid "This item is an <strong>answer</strong> of a quiz question"
+#~ msgstr "Risposta a una domanda"
+
+#~ msgid "Is it a correct answer?"
+#~ msgstr "è la risposta corretta?"
+
+#~ msgid "This item is a <strong>feedback</strong> of a given answer"
+#~ msgstr "Questo è un feedback a una risposta data"
+
+#~ msgid "You are not authorised"
+#~ msgstr "Non sei autorizzato"
+
+#~ msgid "Summary"
+#~ msgstr "Resoconto"
+
+#~ msgid "You have not passed the test"
+#~ msgstr "Non hai superato il test"
+
+#~ msgid "You have passed %s of %s questions."
+#~ msgstr "Hai risposto correttamente a %s domande su %s."
+
+#~ msgid "Question %s of %s"
+#~ msgstr "Domanda %s di %s"
+
+#~ msgid "Previous"
+#~ msgstr "Precedente"
+
+#~ msgid "Submit"
+#~ msgstr "Invia"
+
+#~ msgid "Next"
+#~ msgstr "Successiva"
+
+#~ msgid "Min rate of success"
+#~ msgstr "Percentuale minima per il superamento"
+
+#~ msgid "Leave blank for no min rate: e.g. customer satisfaction survey"
+#~ msgstr ""
+#~ "Lascia vuoto per nessuna percentuale minima: es. questionario di "
+#~ "gradimento"
+
+#~ msgid "Max n. attempts"
+#~ msgstr "Numero massimo di tentativi"
+
+#~ msgid "Leave blank for no limit"
+#~ msgstr "Lascia vuoto per nessun limite"
+
+#~ msgid "Random question order"
+#~ msgstr "Domande in ordine casuale"
+
+#~ msgid "The test contains %s questions"
+#~ msgstr "Il test contiene %s domande"
+
+#~ msgid "View"
+#~ msgstr "Visualizza"
+
+#~ msgid "results"
+#~ msgstr "risultati"
+
+#~ msgid "required"
+#~ msgstr "richiesto"
+
+#~ msgid "best rate"
+#~ msgstr "miglior punteggio"
+
+#~ msgid "no min rate required"
+#~ msgstr "nessun punteggio minimo richiesto"
+
+#~ msgid "Questions"
+#~ msgstr "Domande"
+
+#~ msgid "Results"
+#~ msgstr "Risultati"
+
+#~ msgid "End"
+#~ msgstr "Fine"
+
+#~ msgid "Duration"
+#~ msgstr "Durata"
+
+#~ msgid "yes"
+#~ msgstr "Si"
+
+#~ msgid "total results"
+#~ msgstr "risultati totali"
+
+#~ msgid "%d minutes, %d seconds"
+#~ msgstr "%d minuti, %d secondi"
+
+#~ msgid "Question %d of %d"
+#~ msgstr "Domanda %d di %d"
+
+#~ msgid "State of progress:"
+#~ msgstr "Stato di avanzamento"
+
+#~ msgid "restart the quiz"
+#~ msgstr "Ricomincia il quiz"
+
+#~ msgid "prev"
+#~ msgstr "Precedente"
+
+#~ msgid "next"
+#~ msgstr "Successivo"
+
+#~ msgid "You must login to view the question"
+#~ msgstr "Devi essere loggato per visualizzare la domanda"
+
+#~ msgid "You must answer to the previous questions"
+#~ msgstr "Devi rispondere alla domanda precedente"
+
+#~ msgid "You have already answered to this question"
+#~ msgstr "Hai gi&agrave; risposto a questa domanda"
+
+#~ msgid "Choose the correct options"
+#~ msgstr "Scegli le opzioni corrette"
+
+#~ msgid "Click and choose"
+#~ msgstr "Clicca e scegli"
+
+#~ msgid "FROM"
+#~ msgstr "DA"
+
+#~ msgid "TO"
+#~ msgstr "A"
+
+#, fuzzy
+#~ msgid "All results deleted"
+#~ msgstr "Messaggio cancellato"
+
+#~ msgid "empty chat"
+#~ msgstr "svuota la chat"
+
+#~ msgid "Write a message"
+#~ msgstr "Scrivi un messaggio"
+
+#~ msgid "Send"
+#~ msgstr "Invia"
+
+#~ msgid "delete"
+#~ msgstr "elimina"
+
+#~ msgid "seconds"
+#~ msgstr "secondi"
+
+#~ msgid "about %d minutes"
+#~ msgstr "circa %d minuti"
+
+#~ msgid "Chat emptied"
+#~ msgstr "Chat svuotata"
+
+#~ msgid "Chat pings emptied"
+#~ msgstr "Pings della chat cancellati"
+
+#~ msgid "User pings emptied"
+#~ msgstr "Ping dell'&#39;utente cancellati"
+
+#~ msgid "Tracking interval"
+#~ msgstr "Intervallo tracciamento"
+
+#~ msgid "Every how many minutes to do a tracking"
+#~ msgstr "Ogni quanti minuti fare il tracciamento"
+
+#~ msgid "Enter -1 to disable"
+#~ msgstr "Inserisci -1 per disabilitare"
+
+#~ msgid "all the attibutes are optional: above the defaults are shown"
+#~ msgstr ""
+#~ "tutti gli attributi sono opzionali: qui sopra sono mostrati i valori "
+#~ "predefiniti"
+
+#~ msgid "Chat logs"
+#~ msgstr "Resoconto chat"
+
+#~ msgid "refresh"
+#~ msgstr "aggiorna"
+
+#~ msgid "view messagges"
+#~ msgstr "vedi i messaggi"
+
+#~ msgid "messages"
+#~ msgstr "messaggi"
+
+#~ msgid "the latest"
+#~ msgstr "ultimo"
+
+#~ msgid "There are not messages in chats"
+#~ msgstr "Non ci sono messaggi nelle chat"
+
+#~ msgid "Ping logs"
+#~ msgstr "Resoconto pings"
+
+#~ msgid "view pings"
+#~ msgstr "vedi pings"
+
+#~ msgid "n.users"
+#~ msgstr "n. utenti"
+
+#~ msgid "the first ping"
+#~ msgstr "primo ping"
+
+#~ msgid "the latest ping"
+#~ msgstr "ultimo ping"
+
+#~ msgid "minutes"
+#~ msgstr "minuti"
+
+#~ msgid "empty all pings"
+#~ msgstr "cancella tutti i pings"
+
+#~ msgid "time"
+#~ msgstr "tempo"
+
+#~ msgid "view"
+#~ msgstr "vedi"
+
+#~ msgid ""
+#~ "N&deg; pings: %d; Start at %s; End at %s; Duration: %s minutes; "
+#~ "Continuity index: %s&#37;"
+#~ msgstr ""
+#~ "N&deg; pings: %d; Inizio il %s; Fine il %s; Durata: %s minuti; Indice di "
+#~ "continuit&agrave;: %s&#37;"
+
+#~ msgid "empty pings"
+#~ msgstr "cancella pings"
+
+#~ msgid ""
+#~ "Video and chat available only to post author and administrators (test "
+#~ "mode)"
+#~ msgstr ""
+#~ "Video e chat accessibili sono all&#39;autore e agli amministratori "
+#~ "(modalit&agrave; test)"
+
+#~ msgid "Video and chat available to all users (ON AIR!)"
+#~ msgstr "Video e chat accessibili a tutti gli utenti (IN ONDA!)"
+
+#~ msgid "Deleted"
+#~ msgstr "Eliminato"
+
+#~ msgid "to empty"
+#~ msgstr "svuotare"
+
+#~ msgid "Newsletter"
+#~ msgstr "Newsletter"
+
+#~ msgid "Send newsletter"
+#~ msgstr "Invia newsletter"
+
+#~ msgid "Newsletter subscribers"
+#~ msgstr "Iscritti newsletter"
+
+#~ msgid "Receive Newsletters?"
+#~ msgstr "Vuoi ricevere la newsletter?"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Newsletters"
+#~ msgstr "Newsletters"
+
+#~ msgid "Newsletters scheduled for sending"
+#~ msgstr "Newsletter in attesa di invio"
+
+#~ msgid "now sending"
+#~ msgstr "ora in invio"
+
+#~ msgid "Progress"
+#~ msgstr "Avanzamento"
+
+#~ msgid "Added on"
+#~ msgstr "Aggiunto il"
+
+#~ msgid "Scheduled by"
+#~ msgstr "Inserito da"
+
+#~ msgid "Subscribers"
+#~ msgstr "Iscritti"
+
+#~ msgid "There are %d subscribers: %d activated, %d not activated"
+#~ msgstr "Ci sono %d iscritti: %d attivati, %d non attivati"
+
+#~ msgid "No subscribers"
+#~ msgstr "Nessun iscritto"
+
+#~ msgid "You can also sign up for specific lists"
+#~ msgstr "Puoi anche iscriverti a liste specifiche"
+
+#~ msgid "Yes, I would like to receive the Newsletter"
+#~ msgstr "Si, voglio ricevere la newsletter"
+
+#~ msgid "No, please do not email me"
+#~ msgstr "No, non voglio riceverla"
+
+#~ msgid "Updating..."
+#~ msgstr "Aggiornamento..."
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgid "Subscribe"
+#~ msgstr "Iscriviti"
+
+#~ msgid "Allow users to opt in/out of email"
+#~ msgstr "Allow users to opt in/out of email"
+
+#~ msgid "ALO Easymail Widget"
+#~ msgstr "ALO Easymail Widget"
+
+#~ msgid "Newsletter successfully deleted"
+#~ msgstr "Newsletter cancellata con successo"
+
+#~ msgid "Impossible to delete the selected newsletter"
+#~ msgstr "Impossibile cancellare la newsletter selezionata"
+
+#~ msgid "New sending added with success!"
+#~ msgstr "Nuovo invio aggiunto con successo!"
+
+#~ msgid "Inputs are incompled or wrong. Please check and try again."
+#~ msgstr "I dati inseriti sono incompleti o errati. Controlla e riprova."
+
+#~ msgid "No recipients selected."
+#~ msgstr "Nessun destinatario selezionato."
+
+#~ msgid "Impossible to send. Please try again."
+#~ msgstr "Impossibile inviare. Riprova."
+
+#~ msgid "Newsletter report"
+#~ msgstr "Rapporto newsletter"
+
+#~ msgid "Queue"
+#~ msgstr "Coda"
+
+#~ msgid "Subject"
+#~ msgstr "Oggetto"
+
+#~ msgid "Action"
+#~ msgstr "Azione"
+
+#~ msgid "you"
+#~ msgstr "te"
+
+#~ msgid "another user"
+#~ msgstr "altro utente"
+
+#~ msgid "Cancel"
+#~ msgstr "Annulla"
+
+#~ msgid "Do you really want to stop and cancel this sending?"
+#~ msgstr "Vuoi davvero fermare e annullare questo invio?"
+
+#~ msgid "Newsletters sent BY YOU"
+#~ msgstr "Newsletter inviate DA TE"
+
+#~ msgid "Newsletters sent BY ALL USERS"
+#~ msgstr "Newsletter inviate DA TUTTI GLI UTENTI"
+
+#~ msgid "Completed"
+#~ msgstr "Completato"
+
+#~ msgid "Report"
+#~ msgstr "Rapporto"
+
+#~ msgid "Do you really want to delete the report of this newsletter?"
+#~ msgstr "Vuoi davvero eliminare il rapporto di questa newsletter?"
+
+#~ msgid "Checking..."
+#~ msgstr "Controllo in corso..."
+
+#~ msgid "Warning! Some addresses seem to be wrong"
+#~ msgstr "Attenzione! I seguenti indirizzi e-mail potrebbero essere sbagliati"
+
+#~ msgid "Recipients"
+#~ msgstr "Destinatari"
+
+#~ msgid "Main groups"
+#~ msgstr "Gruppi principali"
+
+#~ msgid "All subscribers"
+#~ msgstr "Tutti gli iscritti"
+
+#~ msgid "All registered users"
+#~ msgstr "Tutti gli utenti registrati"
+
+#~ msgid "Mailing Lists"
+#~ msgstr "Mailing Lists"
+
+#~ msgid ""
+#~ "Between brackets the number of recipients belonging to each group or list"
+#~ msgstr ""
+#~ "Tra parentesi il numero dei destinatari appartenenti a ogni gruppo o lista"
+
+#~ msgid ""
+#~ "Do not worry about recipients belonging to more than one group or list: "
+#~ "the plugin avoids sending twice to the same recipient"
+#~ msgstr ""
+#~ "Non preoccuparti dei destinatari che appartengono a pi&ugrave; di un "
+#~ "gruppo o lista: il plugin invier&agrave; un solo messsaggio per ogni "
+#~ "destinatario"
+
+#~ msgid ""
+#~ "To send to other people insert a list of e-mail addresses separated by "
+#~ "comma (,)"
+#~ msgstr ""
+#~ "Per inviare ad altri destinatari inserisci una lista di indirizzi e-mail "
+#~ "separati dalla virgola (,)"
+
+#~ msgid "Save the list of email addresses for next sending"
+#~ msgstr "Salva la lista di e-mail per il prossimo invio"
+
+#~ msgid "Subject and text of the e-mail"
+#~ msgstr "Oggetto e testo del messaggio"
+
+#~ msgid "Choose to send a simple generic e-mail or one about a specific post"
+#~ msgstr ""
+#~ "Scegli se inviare un messaggio generico o uno riferito a un articolo "
+#~ "specifico"
+
+#~ msgid "generic e-mail: no post selected"
+#~ msgstr "messaggio generico: nessun articolo selezionato"
+
+#~ msgid ""
+#~ "If you choose a post you can use the post tags (see below) in the main "
+#~ "content"
+#~ msgstr ""
+#~ "Se scegli un articolo puoi usare i tag relativi all&#39;articolo (vedi "
+#~ "sotto) nel corpo del messaggio"
+
+#~ msgid "Main body"
+#~ msgstr "Testo principale"
+
+#~ msgid "Post tags"
+#~ msgstr "Tag articolo"
+
+#~ msgid "The link to the title of the selected post."
+#~ msgstr "Il link al titolo dell&#39;articolo selezionato"
+
+#~ msgid "The excerpt (if any) of the post."
+#~ msgstr "Il riassunto (se esiste) dell&#39;articolo."
+
+#~ msgid "The main content of the post."
+#~ msgstr "Il testo principale dell&#39;articolo."
+
+#~ msgid ""
+#~ "Warning: this tag inserts the test as it is, including shortcodes from "
+#~ "other plugins."
+#~ msgstr ""
+#~ "Attenzione: questo tag inserisce il testo cos&igrave; com&#39;&egrave;, "
+#~ "inclusi eventuali tag di altri plugin."
+
+#~ msgid "Subscriber tags"
+#~ msgstr "Tag iscritto"
+
+#~ msgid "Name and surname of registered user."
+#~ msgstr "Nome e cognome dell&#39;utente registrato."
+
+#~ msgid "For subscribers: the name used for registration"
+#~ msgstr "Per gli iscritti: il nome inserito durante l&#39;iscrizione."
+
+#~ msgid "The link to the site"
+#~ msgstr "Il link al sito"
+
+#~ msgid "Save the main body as template for next sending"
+#~ msgstr "Salva il testo principale per il prossimo invio"
+
+#~ msgid "Track when viewed"
+#~ msgstr "Traccia quando visualizzata"
+
+#~ msgid "The plugin tries to count how many recipients open the newsletter"
+#~ msgstr ""
+#~ "Il plugin prova a contare quanti destinatari hanno visualizzato la "
+#~ "newsletter"
+
+#~ msgid ""
+#~ "This feedback depends on recipients&#39; e-mail client, so the result is "
+#~ "approximate and probably undersized"
+#~ msgstr ""
+#~ "Questo riscontro dipende dal programma di posta usato dai destinatari, "
+#~ "perci&ograve; il dato &egrave; approssimativo e probabilmente "
+#~ "sottodimensionato"
+
+#~ msgid "Add to sending queue"
+#~ msgstr "Aggiungi in coda per l&#39;invio"
+
+#~ msgid "PLEASE WAIT: sending..."
+#~ msgstr "ATTENDI: invio in corso..."
+
+#~ msgid "Click ONCE and wait for the sending to be over"
+#~ msgstr "Clicca UNA VOLTA e attendi il termine dell&#39;operazione"
+
+#~ msgid "Error during operation."
+#~ msgstr "Errore durante l&#39;operazione."
+
+#~ msgid ""
+#~ "Your subscription was successfully activated. You will receive the next "
+#~ "newsletter. Thank you."
+#~ msgstr ""
+#~ "La tua iscrizione &egrave; stata attivata con successo. Riceverai la "
+#~ "prossima newsletter. Grazie."
+
+#~ msgid "Error during activation. Please check the activation link."
+#~ msgstr "Errore durante l&#39;attivazione. Controlla il link di attivazione."
+
+#~ msgid "To modify your subscription to mailing lists use this form"
+#~ msgstr ""
+#~ "Per modificare la tua iscrizione alle mailing list usa questo modulo"
+
+#~ msgid "Edit"
+#~ msgstr "Modifica"
+
+#~ msgid "To unsubscribe the newsletter for good click this button"
+#~ msgstr "Per cancellare la tua iscrizione clicca sul pulsante"
+
+#~ msgid "Unsubscribe me"
+#~ msgstr "Cancellami"
+
+#~ msgid "Your subscription was successfully deleted. Bye bye."
+#~ msgstr "La tua iscrizione &egrave; stata cancellata con successo. Saluti."
+
+#~ msgid "Error during unsubscription."
+#~ msgstr "Errore durante la cancellazione dell'&#39;iscrizione."
+
+#~ msgid "Try again."
+#~ msgstr "Riprova."
+
+#~ msgid "If it fails again you can contact the administrator"
+#~ msgstr "Se fallisse ancora puoi contattare l&#39;amministratore"
+
+#~ msgid "Your subscription to mailing lists successfully updated"
+#~ msgstr ""
+#~ "La tua iscrizione alle mailing list &egrave; stata aggiornata con successo"
+
+#~ msgid "without formatting"
+#~ msgstr "senza formattazione"
+
+#~ msgid "Total sendings"
+#~ msgstr "Invii totali"
+
+#~ msgid "Sendings succesful"
+#~ msgstr "Invii riusciti"
+
+#~ msgid "Sendings viewed"
+#~ msgstr "Invii visualizzati"
+
+#~ msgid ""
+#~ "Available only for subscribers; for other e-mail addresses the value is "
+#~ "always negative"
+#~ msgstr ""
+#~ "Disponibile solo per gli iscritti; per gli altri indirizzi e-mail il "
+#~ "valore &egrave; sempre negativo"
+
+#~ msgid "Sendings failed"
+#~ msgstr "Invii falliti"
+
+#~ msgid "Sent"
+#~ msgstr "Inviato"
+
+#~ msgid "General"
+#~ msgstr "Generali"
+
+#~ msgid "Batch sending"
+#~ msgstr "Batch sending"
+
+#~ msgid "Permissions"
+#~ msgstr "Permessi"
+
+#~ msgid "Number of last posts to display"
+#~ msgstr "Numero di articoli recenti da mostrare"
+
+#~ msgid ""
+#~ "Number of recent posts to show in the dropdown list of the newsletter "
+#~ "sending form"
+#~ msgstr ""
+#~ "Numero di articoli recenti da mostrare nella lista a tendina nella pagina "
+#~ "di invio"
+
+#~ msgid "Sender's email address"
+#~ msgstr "Indirizzo e-mail del mittente"
+
+#~ msgid "Default template for the email content"
+#~ msgstr "Modello per il contenuto del messaggio"
+
+#~ msgid "Show subscription page"
+#~ msgstr "Mostra pagina di iscrizione"
+
+#~ msgid ""
+#~ "If yes, the subscription page ('%s') appears in menu or widget that list "
+#~ "all blog pages"
+#~ msgstr ""
+#~ "Se si, la pagina di iscrizione ('%s') appare nei menu o nei widget che "
+#~ "elencano tutte le pagine del blog"
+
+#~ msgid "Delete all plugin data on deactivation"
+#~ msgstr "Elimina tutti i dati del plugin quando disattivato"
+
+#~ msgid ""
+#~ "On plugin deactivation, all plugin options, preferences and database "
+#~ "tables (including all newsletters and subscribers data) will be "
+#~ "definitely deleted"
+#~ msgstr ""
+#~ "Con la disattivazione del plugin vengono definitivamente cancellate le "
+#~ "opzioni, le impostazioni e i dati del plugin nelle tabelle del database "
+#~ "(inclusi i dati delle newsletler e degli iscritti)"
+
+#~ msgid ""
+#~ "If you need these data make sure you do a database backup before plugin "
+#~ "deactivation"
+#~ msgstr ""
+#~ "Se desideri conservare questi dati effettua un backup del database prima "
+#~ "di disattivare il plugin"
+
+#~ msgid "Yes, I understand"
+#~ msgstr "Si, ho capito"
+
+#~ msgid "Widget/Page Texts"
+#~ msgstr "Testi per Widget/Pagina"
+
+#~ msgid "For registered users"
+#~ msgstr "Per gli utenti registrati"
+
+#~ msgid "Default"
+#~ msgstr "Predefinito"
+
+#~ msgid "For all subscribers"
+#~ msgstr "Per tutti gli iscritti"
+
+#~ msgid "Invite to join mailing lists"
+#~ msgstr "Invito a iscriversi alle mailing list"
+
+#~ msgid "Maximum number of emails that can be sent in a 24-hr period"
+#~ msgstr "Numero massimo di e-mail spedibili in un periodo di 24 ore"
+
+#~ msgid "Important advice to calculate the best limit"
+#~ msgstr "Avviso importante per il calcolo del numero massimo"
+
+#~ msgid ""
+#~ "Ask your provider the cut-off of emails you can send per day. Multiplying "
+#~ "the hourly limit by 24 is not the right way to calculate it: very often "
+#~ "the resulting number is much higher than the actual cut-off."
+#~ msgstr ""
+#~ "Chiedi al tuo provider il numero massimo di messaggi inviabili in un "
+#~ "giorno. Moltiplicare il limite orario per 24 non &egrave; il sistema "
+#~ "migliore: infatti molto spesso il numero risultante &egrave; molto "
+#~ "maggiore del limite giornaliero."
+
+#~ msgid ""
+#~ "Subtract from this cut-off the number of emails you want to send from "
+#~ "your blog (e.g. registration procedures, activation and unsubscribing of "
+#~ "EasyMail, notices from other plugins etc.)."
+#~ msgstr ""
+#~ "Sottrai da questo limite il numero delle e-mail inviate dal tuo blog (es. "
+#~ "procedure di registrazione, attivazione e cancellazione di EasyMail, "
+#~ "notifiche di altri plugin. ecc.)."
+
+#~ msgid ""
+#~ "If in doubt, just choose a number definitely lower than the cut-off: "
+#~ "you'll have more chances to have your mail delivered, and less chances to "
+#~ "end up in a blacklist..."
+#~ msgstr ""
+#~ "Nel dubbio, decidi un numero decisamente inferiore al limite: avrai "
+#~ "pi&ugrave; possibilit&agrave; di far arrivare le newsletter a "
+#~ "destinazione, e minori probabilit&agrave; di finire in qualche "
+#~ "blacklist..."
+
+#~ msgid "For more info, visit the FAQ of the site."
+#~ msgstr "Per maggiori informazioni, visita le F.A.Q. del sito."
+
+#~ msgid "The lowest role can send newsletters"
+#~ msgstr "Ruolo minimo per inviare newsletter"
+
+#~ msgid ""
+#~ "The user with this capability can only send newletters, but cannot manage "
+#~ "them (view the report, delete)"
+#~ msgstr ""
+#~ "L&#39;utente con questa capacit&agrave; pu&ograve; solo inviare "
+#~ "newsletter, ma non gestirle (vedere il rapporto, cancellarle)"
+
+#~ msgid "The lowest role can manage newsletters"
+#~ msgstr "Ruolo minimo per gestire le newsletter"
+
+#~ msgid ""
+#~ "The user with this capability can manage own newsletters (view the "
+#~ "report, delete)"
+#~ msgstr ""
+#~ "L&#39;utente con questa capacit&agrave; pu&ograve; gestire le newsletter "
+#~ "(vedere il rapporto, cancellarle)"
+
+#~ msgid ""
+#~ "Note: to let a user manage newsletters of other users, this user must "
+#~ "have the capability to manage subscribers too"
+#~ msgstr ""
+#~ "Nota: perch&egrave; un utente possa gestire le newsletter di altri utenti "
+#~ "egli deve avere anche la capacit&agrave; di gestire gli iscritti"
+
+#~ msgid "The lowest role can manage subscribers"
+#~ msgstr "Ruolo minimo per gestire gli iscritti"
+
+#~ msgid ""
+#~ "The user with this capability can manage subscribers (add, delete, assign "
+#~ "to mailing lists...)"
+#~ msgstr ""
+#~ "L&#39;utente con questa capacit&agrave; pu&ograve; gestire gli iscritti "
+#~ "(aggiungerli, cancellarli, assegnarli alle mailing list...)"
+
+#~ msgid "The lowest role can manage options"
+#~ msgstr "Ruolo minimo per gestire le opzioni"
+
+#~ msgid "The user with this capability can set up these setting sections"
+#~ msgstr ""
+#~ "L&#39;utente con questa capacit&agrave; pu&ograve; gestire queste opzioni"
+
+#~ msgid "Other sections can be modified only by administrators"
+#~ msgstr ""
+#~ "Le altre opzioni possono essere modificate solo dagli utenti "
+#~ "amministratori"
+
+#~ msgid ""
+#~ "You can setup mailing lists. For each you have to specify the name, the "
+#~ "order (the lowest appear at top) and the availability"
+#~ msgstr ""
+#~ "Qui puoi gestire le mailing lists. Per ognuna devi indicare un nome, un "
+#~ "numero per l'&#39;ordinamento (il minore appare per primo) e la "
+#~ "visibilit&agrave;"
+
+#~ msgid "hidden"
+#~ msgstr "nascosta"
+
+#~ msgid "the list can be shown only here in settings and nowhere in the site"
+#~ msgstr "la lista viene mostrata solo qui e in nessuna altra parte del sito"
+
+#~ msgid "admin side only"
+#~ msgstr "solo parte amministrativa"
+
+#~ msgid ""
+#~ "the list is available only for administratrion use (settings, sending "
+#~ "page, subscribers), so subscribers cannot see it"
+#~ msgstr ""
+#~ "la lista &egrave; disponibile solo per un uso amministrativo (opzioni, "
+#~ "pagina di invio, iscritti); quindi gli iscritti non possono vederla"
+
+#~ msgid "entire site"
+#~ msgstr "in tutto il sito"
+
+#~ msgid "the list is available in the whole site, so subscribers can see it"
+#~ msgstr ""
+#~ "la lista &egrave; visibile nell&#39;intero sito, quindi gli iscritti "
+#~ "possono vederla"
+
+#~ msgid "List name"
+#~ msgstr "Nome della lista"
+
+#~ msgid "Availability"
+#~ msgstr "Visibilit&agrave;"
+
+#~ msgid "Order"
+#~ msgstr "Ordinamento"
+
+#~ msgid "Save"
+#~ msgstr "Salva"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Delete list"
+#~ msgstr "Elimina lista"
+
+#~ msgid "Do you really want to DELETE this list?"
+#~ msgstr "Vuoi davvero CANCELLARE questa lista?"
+
+#~ msgid "Activation state updated"
+#~ msgstr "Stato di attivazione aggiornato"
+
+#~ msgid "No subscriber selected"
+#~ msgstr "Nessun iscritto selezionato"
+
+#~ msgid "No list selected"
+#~ msgstr "Nessuna lista selezionata"
+
+#~ msgid "Edit subscription to mailing lists"
+#~ msgstr "Modifica l&#39;iscrizione alle mailing list"
+
+#~ msgid "Selected subscribers"
+#~ msgstr "Iscritti selezionati"
+
+#~ msgid "Choose mailing lists"
+#~ msgstr "Scegli le mailing list"
+
+#~ msgid "Choose an action"
+#~ msgstr "Scegli un&#39;azione"
+
+#~ msgid "Add to selected lists"
+#~ msgstr "Aggiungi alle liste selezionate"
+
+#~ msgid "ignore not selected lists"
+#~ msgstr "ignora le liste non selezionate"
+
+#~ msgid "Remove from selected lists"
+#~ msgstr "Rimuovi dalle liste selezionate"
+
+#~ msgid "Add to selected lists and remove from not selected lists"
+#~ msgstr ""
+#~ "Aggiungi alle liste selezionate e rimuovi dalle liste non selezionate"
+
+#~ msgid "Apply"
+#~ msgstr "Applica"
+
+#~ msgid "Subscribers deleted"
+#~ msgstr "Iscritti cancellati"
+
+#~ msgid "Import from WP registered users"
+#~ msgstr "Importa dagli utenti registrati di WP"
+
+#~ msgid ""
+#~ "You can import new subscribers from WordPress registered users. Each "
+#~ "member will be subscribed to the newsletter."
+#~ msgstr ""
+#~ "Puoi importare nuovi iscritti dagli utenti registrati di WordPress. Ogni "
+#~ "membro sar&agrave; iscritto alla newsletter."
+
+#~ msgid ""
+#~ "This feature is useful if you have just installed the plugin and you "
+#~ "would like to automatically subscribe existing users."
+#~ msgstr ""
+#~ "Questa funzione &egrave; utile se hai appena installato il plugin e vuoi "
+#~ "iscrivere automaticamente tutti gli utenti gi&agrave; esistenti."
+
+#~ msgid ""
+#~ "But be careful to use it later on: it subscribes all registered users, "
+#~ "including the members that already unsubscribed from the newsletter!"
+#~ msgstr ""
+#~ "Ma fai attenzione a usarla in seguito: questo sistema iscrive tutti gli "
+#~ "utenti registrati, inclusi coloro che si sono gi&agrave; cancellati dalla "
+#~ "newsletter!"
+
+#~ msgid "Blog registered users"
+#~ msgstr "Utenti registrati del blog"
+
+#~ msgid "Import from WP members"
+#~ msgstr "Importa dagli utenti di WP"
+
+#~ msgid "Import from uploaded CSV file"
+#~ msgstr "Importa da un file CSV"
+
+#~ msgid "You can import new subscribers from a CSV file."
+#~ msgstr "Puoi importare nuovi iscritti da un un file in formato CSV."
+
+#~ msgid ""
+#~ "For each line you have to specify: e-mail address (mandatory), name "
+#~ "(optional). Use semicolon (;) to separate the fields. See sample."
+#~ msgstr ""
+#~ "Per ogni riga devi specificare: indirizzo e-mail (obbligatorio), nome "
+#~ "(opzionale). Usa il punto e virgola (;) per separare i campi. Guarda "
+#~ "l&#39;esempio."
+
+#~ msgid ""
+#~ "Tips if you have problems: you can try changing the file extension from ."
+#~ "csv to .txt; use double quotes to delimit each field (&quot;"
+#~ "email_address1@domain.ltd&quot;;&quot;name1 surname1&quot;)"
+#~ msgstr ""
+#~ "Suggerimenti sei hai problemi: puoi provare a cambiare l&#39;estensione "
+#~ "del file da .csv a .txt; usa le doppie virgolette per delimitare ogni "
+#~ "campo (&quot;email_address1@domain.ltd&quot;;&quot;name1 surname1&quot;)"
+
+#~ msgid "Test mode (no importation, show records on screen)"
+#~ msgstr ""
+#~ "Modalit&agrave; di test (nessuna importazione, mostra i dati a video)"
+
+#~ msgid "Upload CSV file"
+#~ msgstr "Carica file CSV"
+
+#~ msgid "Add a subscriber"
+#~ msgstr "Aggiungi un iscritto"
+
+#~ msgid "No action selected"
+#~ msgstr "Nessuna azione selezionata"
+
+#~ msgid "Back"
+#~ msgstr "Indietro"
+
+#~ msgid "The e-email address is not correct"
+#~ msgstr "L&#39;indirizzo e-mail non &egrave; corretto"
+
+#~ msgid "There is already a subscriber with this e-email address"
+#~ msgstr "Esiste gi&agrave; un iscritto con questo indirizzo e-mail"
+
+#~ msgid "Found %d records"
+#~ msgstr "Trovate %d righe"
+
+#~ msgid ""
+#~ "Check the Error column to modify records that otherwise will not be "
+#~ "imported"
+#~ msgstr ""
+#~ "Guarda la colonna Errori per modificare le righe che altrimenti non "
+#~ "saranno importate"
+
+#~ msgid "Successfully import: %d records out of %d total"
+#~ msgstr "Importate con successo: %d righe su %d totali"
+
+#~ msgid "Some records have not been imported"
+#~ msgstr "Alcune righe non sono state importate"
+
+#~ msgid "Not valid CSV file uploaded"
+#~ msgstr "Il file caricato non &egrave; un file CSV valido"
+
+#~ msgid "%d new subscribers successfully added from blog members"
+#~ msgstr "%d nuovi iscritti aggiunti con successo dai membri del blog"
+
+#~ msgid "No subscribers added from blog members"
+#~ msgstr "Nessun iscritto aggiunto dai membri del blog"
+
+#~ msgid "Show all"
+#~ msgstr "Mostra tutti"
+
+#~ msgid ""
+#~ "Maybe you would like to import subscribers from your blog registered "
+#~ "members or an external archive (using CSV). Click the &#39;Add/import "
+#~ "subscribers&#39; button"
+#~ msgstr ""
+#~ "Forse desideri importare nuovi iscritti dagli utenti registrati al blog "
+#~ "oppure da un archivio esterno (in formato CSV). Clicca sul pulsante &#39;"
+#~ "Aggiungi/importa iscritti&#39;"
+
+#~ msgid "Do not show it again"
+#~ msgstr "Non mostrare pi&ugrave;"
+
+#~ msgid "Add/import subscribers"
+#~ msgstr "Aggiungi/importa iscritti"
+
+#~ msgid "Do you really want to DELETE these subscribers?"
+#~ msgstr "Vuoi davvero CANCELLARE questi iscritti?"
+
+#~ msgid "Per page"
+#~ msgstr "Per pagina"
+
+#~ msgid "Bulk Actions"
+#~ msgstr "Azione di massa"
+
+#~ msgid "Order by e-mail"
+#~ msgstr "Ordina per e-mail"
+
+#~ msgid "Username"
+#~ msgstr "username"
+
+#~ msgid ""
+#~ "The username of registered users. It is blank for public subscribers."
+#~ msgstr "Username degli utenti registrati. Vuoto nel caso degli iscritti."
+
+#~ msgid "Order by join date"
+#~ msgstr "Ordina per data di iscrizione"
+
+#~ msgid "Join date"
+#~ msgstr "Data di iscrizione"
+
+#~ msgid "Order by activation state"
+#~ msgstr "Ordina per stato di attivazione"
+
+#~ msgid "Activated"
+#~ msgstr "Attivato"
+
+#~ msgid ""
+#~ "For registered users the dafault state is activated. For public "
+#~ "subscribers the default state is deactivated: it will be activated by "
+#~ "clicking on the activation link in the e-mail."
+#~ msgstr ""
+#~ "Per gli utenti registrati lo stato inziale &egrave; attivato. Per gli "
+#~ "iscritti lo stato inziale &egrave; disattivato: si attiva quando l&#39;"
+#~ "iscritto clicca sul link di attivazione presente nella e-mail"
+
+#~ msgid "A subscriber will be deleted if not activated in 5 days."
+#~ msgstr "Un iscritto viene cancellato se non si attiva entro 5 giorni"
+
+#~ msgid "Actions"
+#~ msgstr "Azione"
+
+#~ msgid "View user profile"
+#~ msgstr "Vedi profilo utente"
+
+#~ msgid "Modify activation state"
+#~ msgstr "Modifica lo stato di attivazione"
+
+#~ msgid "Do you really want to modify the activation state?"
+#~ msgstr "Vuoi davvero modificare lo stato di attivazione?"
+
+#~ msgid "Delete subscriber"
+#~ msgstr "Cancella iscritto"
+
+#~ msgid "Do you really want to DELETE this subscriber?"
+#~ msgstr "Vuoi davvero CANCELLARE questo iscritto?"
+
+#~ msgid "Confirm your subscription to %s Newsletter"
+#~ msgstr "Conferma la sua iscrizione alla Newsletter su %s"
+
+#~ msgid ""
+#~ "Hi %s\n"
+#~ "to complete your subscription to %s newsletter you need to click on the "
+#~ "following link (or paste it in the address bar of your browser):\n"
+#~ msgstr ""
+#~ "Salve %s\n"
+#~ "per completare la tua iscrizione alla newsletter su %s devi cliccare sul "
+#~ "seguente indirizzo (o incollarlo nella barra degli indirizzi del tuo "
+#~ "browser):\n"
+
+#~ msgid "If you did not ask for this subscription ignore this message."
+#~ msgstr "Se non hai richiesto questa iscrizione ignora questo messaggio."
+
+#~ msgid "Thank you"
+#~ msgstr "Grazie"
+
+#~ msgid "Successfully updated"
+#~ msgstr "Aggiornato con successo"
+
+#~ msgid "The name field is empty"
+#~ msgstr "Il campo nome &egrave; vuoto"
+
+#~ msgid "Error during sending: please try again"
+#~ msgstr "Errore durante l&#39;invio: riprova"
+
+#~ msgid ""
+#~ "Subscription successful. You will receive an e-mail with a link. You have "
+#~ "to click on the link to activate your subscription."
+#~ msgstr ""
+#~ "Iscrizione inviata con successo. Ora riceverai una e-mail contenente un "
+#~ "link. Devi cliccare su questo link per attivare la tua iscrizione."
+
+#~ msgid ""
+#~ "You have received this message because you subscribed to our newsletter. "
+#~ "If you want to unsubscribe: "
+#~ msgstr ""
+#~ "Hai ricevuto questo messaggio perché sei iscritto alla nostra newsletter. "
+#~ "Se non vuoi ricevere altri messaggi:"
+
+#~ msgid "click here"
+#~ msgstr "clicca qui"
+
+#~ msgid "To allow editors to send emails, check this option"
+#~ msgstr ""
+#~ "Per consentire agli utenti editor di spedire newsletter seleziona questa "
+#~ "opzione"
+
+#~ msgid "Editors can send emails"
+#~ msgstr "Utenti editor possono inviare newsletter"
+
+#~ msgid "Registered users"
+#~ msgstr "Utenti registrati"
+
+#~ msgid "None of the above"
+#~ msgstr "Nessuno dei precedenti"
+
+#~ msgid "plain text"
+#~ msgstr "solo testo"
+
+#~ msgid "Total sent"
+#~ msgstr "Totale inviati"
+
+#~ msgid "Succesful sendings"
+#~ msgstr "Invii riusciti"
+
+#~ msgid "Search e-mail or name"
+#~ msgstr "Cerca e-mail o nome"
+
+#~ msgid "Form field label"
+#~ msgstr "Etichetta del campo"
+
+#~ msgid "Form button label"
+#~ msgstr "Etichetta del pulsante"
+
+#~ msgid "Please visit plugin site for more info and feedback"
+#~ msgstr "Visita il sito del plugin per maggiori informazioni"
+
+#~ msgid ""
+#~ "Choose the kind of recipients (people who subscribe the newsletter or the "
+#~ "registered users)"
+#~ msgstr ""
+#~ "Scegli in tipo di destinatari (iscritti alla newsletter o utenti "
+#~ "registrati)"

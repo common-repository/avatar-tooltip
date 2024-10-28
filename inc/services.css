@@ -1,0 +1,66 @@
+.gravatar-info-services li {
+	display: inline;	
+}
+
+.gravatar-info-services a.img {
+    background-image: url("../images/services-sprite.png") !important;
+    background-repeat: no-repeat;
+    float: left;
+    line-height: 16px;
+    padding: 0 0 0 18px;
+}
+
+.gravatar-info-services .accounts_gravatar { background-position: 0px -784px; } 
+
+
+/* From here: pasted form Gravatar css */
+
+.gravatar-info-services .ims_aim { background-position: 0px -288px; }
+.gravatar-info-services .accounts_bebo { background-position: 0px -80px; }
+.gravatar-info-services .accounts_blogger { background-position: 0px -336px; }
+.gravatar-info-services .accounts_buzz { background-position: 0px -416px; }
+.gravatar-info-services .phoneNumbers_mobile { background-position: 0px -576px; }
+.gravatar-info-services .accounts_delicious { background-position: 0px -240px; }
+.gravatar-info-services .accounts_digg { background-position: 0px -144px; }
+.gravatar-info-services .accounts_dopplr { background-position: 0px -32px; }
+.gravatar-info-services .emails_primary { background-position: 0px -112px; }
+.gravatar-info-services .accounts_evernote { background-position: 0px -544px; }
+.gravatar-info-services .accounts_facebook { background-position: 0px -0px; }
+.gravatar-info-services .accounts_flickr { background-position: 0px -400px; }
+.gravatar-info-services .accounts_friendfeed { background-position: 0px -224px; }
+.gravatar-info-services .accounts_foursquare { background-position: 0px -704px; }
+.gravatar-info-services .accounts_google { background-position: 0px -752px; }
+.gravatar-info-services .ims_gtalk { background-position: 0px -640px; }
+.gravatar-info-services .phoneNumbers_home { background-position: 0px -688px; }
+.gravatar-info-services .ims_icq { background-position: 0px -592px; }
+.gravatar-info-services .accounts_ilike { background-position: 0px -64px; }
+.gravatar-info-services .ims_jabber, .gravatar-info-services .ims_xmpp { background-position: 0px -656px; }
+.gravatar-info-services .accounts_lastfm { background-position: 0px -496px; }
+.gravatar-info-services .accounts_linkedin { background-position: 0px -368px; }
+.gravatar-info-services .accounts_mixx { background-position: 0px -528px; }
+.gravatar-info-services .accounts_mobileme { background-position: 0px -320px; }
+.gravatar-info-services .ims_msn { background-position: 0px -624px; }
+.gravatar-info-services .accounts_myspace { background-position: 0px -352px; }
+.gravatar-info-services .accounts_netvibes { background-position: 0px -272px; }
+.gravatar-info-services .accounts_newsvine { background-position: 0px -96px; }
+.gravatar-info-services .accounts_openid { background-position: 0px -128px; }
+.gravatar-info-services .accounts_picasa { background-position: 0px -256px; }
+.gravatar-info-services .accounts_posterous { background-position: 0px -560px; }
+.gravatar-info-services .accounts_qik { background-position: 0px -672px; }
+.gravatar-info-services .accounts_reddit { background-position: 0px -176px; }
+.gravatar-info-services .accounts_rss { background-position: 0px -480px; }
+.gravatar-info-services .ims_skype { background-position: 0px -16px; }
+.gravatar-info-services .accounts_stumbleupon { background-position: 0px -192px; }
+.gravatar-info-services .accounts_technorati { background-position: 0px -432px; }
+.gravatar-info-services .accounts_tripit { background-position: 0px -720px; }
+.gravatar-info-services .accounts_tumblr { background-position: 0px -448px; }
+.gravatar-info-services .accounts_twitter { background-position: 0px -464px; }
+.gravatar-info-services .accounts_vimeo { background-position: 0px -384px; }
+.gravatar-info-services .accounts_wordpress { background-position: 0px -304px; }
+.gravatar-info-services .phoneNumbers_work { background-position: 0px -688px; }
+.gravatar-info-services .accounts_yahoo { background-position: 0px -160px; }
+.gravatar-info-services .accounts_yelp { background-position: 0px -512px; }
+.gravatar-info-services .ims_yahoo { background-position: 0px -608px; }
+.gravatar-info-services .accounts_youtube { background-position: 0px -208px; }
+.gravatar-info-services .accounts_gowalla { background-position: 0px -736px; }
+.gravatar-info-services .accounts_goodreads { background-position: 0px -768px; }

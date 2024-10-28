@@ -1,0 +1,146 @@
+/**
+ * Gravatr Tooltip CSS Styles
+ *
+ * Contains the functions/hooks about admin menu and admin bar
+ *
+ * TIP: copy this file to your theme directory and edit it there. Useful to prevent the loss of styles when you upgrade the plugin.
+ * 
+ * @package Avatar Tooltip
+ * @since 1.0
+ */
+
+
+
+/**
+ * Tooltip
+ */
+ 
+.axe-avatar-tooltip {
+	min-width: 300px;
+	max-width: 450px;
+	min-height: 100px;
+	max-height: 250px;
+	text-align: left;
+}
+
+.axe-avatar-tooltip span.preloading {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.axe-avatar-tooltip span.preloading img {
+	margin-top: 32px;
+}
+
+.axe-avatar-tooltip a.ui-tooltip-close {
+	text-decoration: none;
+}
+
+
+
+/**
+ * Content
+ */
+ 
+.axe-avatar-tooltip .ui-tooltip-content {
+	font-weight: normal;
+}
+
+.axe-avatar-tooltip .container-section {
+	margin-bottom: 1em;
+}
+
+.axe-avatar-tooltip .container-section ul {
+	padding: 0;
+}
+
+.axe-avatar-tooltip .content-title {
+	font-weight: bold;
+	clear: both;
+	margin-bottom: 0.5em;
+}
+
+
+
+/**
+ * User info section
+ */
+ 
+.axe-avatar-tooltip ul {
+	list-style-type: none;
+	margin: 0;
+}
+
+.axe-avatar-tooltip ul.userinfo li {
+	margin-right: 1em;
+	display: inline;
+}
+
+
+/**
+ * Gravatar info section
+ */
+
+.axe-avatar-tooltip .container-gravatar img.gravatar-thumb {
+	float: left;
+}
+
+.axe-avatar-tooltip .container-gravatar .gravatar-info {
+    margin-left: 90px;
+    position: relative;
+    top: 0;
+}
+
+.axe-avatar-tooltip .container-gravatar .gravatar-info-user {
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
+.axe-avatar-tooltip .container-gravatar .gravatar-info-location {
+	font-weight: normal;
+	margin-left: 0.2em;
+}
+
+.axe-avatar-tooltip .container-gravatar .gravatar-info-about {
+	margin-top: 0.8em;
+	font-size: 90%;
+	font-style: italic;
+}
+
+.axe-avatar-tooltip .container-gravatar ul.gravatar-info-accounts {
+	margin-top: 0.8em;
+}
+
+.axe-avatar-tooltip .container-gravatar .gravatar-info-urls {
+	margin-top: 0.8em;
+	margin-right: 1em;
+}
+
+.axe-avatar-tooltip .container-gravatar .gravatar-info-urls a.url {
+    background-image: url("images/world_go.png") !important;
+    background-repeat: no-repeat;
+    float: left;
+    line-height: 16px;
+    padding: 0 0 0 18px;
+}
+
+.gravatar-info-services a.img:link,
+.gravatar-info-services a.img:active,
+.gravatar-info-services a.img:hover,
+.gravatar-info-services a.img:visited,
+.gravatar-info-urls a.url:link,
+.gravatar-info-urls a.url:active,
+.gravatar-info-urls a.url:hover,
+.gravatar-info-urls a.url:visited {
+	text-decoration: none !important; 
+}
+
+
+/**
+ * Avatar
+ */
+
+.avatar-active {
+	cursor: pointer;
+}
